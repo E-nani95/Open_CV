@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{378FC279-24F5-4D83-B4B3-86FF6DCE9B80}|OpenCV_Blur\\OpenCV_Blur.csproj|c:\\users\\ai-04\\source\\repos\\opencv_blur\\opencv_blur\\opencv_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378FC279-24F5-4D83-B4B3-86FF6DCE9B80}|OpenCV_Blur\\OpenCV_Blur.csproj|solutionrelative:opencv_blur\\opencv_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378FC279-24F5-4D83-B4B3-86FF6DCE9B80}|OpenCV_Blur\\OpenCV_Blur.csproj|C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\opencv_blur\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378FC279-24F5-4D83-B4B3-86FF6DCE9B80}|OpenCV_Blur\\OpenCV_Blur.csproj|solutionrelative:opencv_blur\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378FC279-24F5-4D83-B4B3-86FF6DCE9B80}|OpenCV_Blur\\OpenCV_Blur.csproj|C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\opencv_blur\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{378FC279-24F5-4D83-B4B3-86FF6DCE9B80}|OpenCV_Blur\\OpenCV_Blur.csproj|solutionrelative:opencv_blur\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378FC279-24F5-4D83-B4B3-86FF6DCE9B80}|OpenCV_Blur\\OpenCV_Blur.csproj|C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\opencv_blur\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378FC279-24F5-4D83-B4B3-86FF6DCE9B80}|OpenCV_Blur\\OpenCV_Blur.csproj|solutionrelative:opencv_blur\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\OpenCV_Blur\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OpenCV_Blur\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\OpenCV_Blur\\Form1.Designer.cs",
+              "RelativeToolTip": "OpenCV_Blur\\Form1.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwEAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:07:08.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenCV_CLASS.cs",
+              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\OpenCV_Blur\\OpenCV_CLASS.cs",
+              "RelativeDocumentMoniker": "OpenCV_Blur\\OpenCV_CLASS.cs",
+              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\OpenCV_Blur\\OpenCV_CLASS.cs",
+              "RelativeToolTip": "OpenCV_Blur\\OpenCV_CLASS.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:06:31.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\OpenCV_Blur\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenCV_Blur\\Form1.cs",
+              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\OpenCV_Blur\\Form1.cs",
+              "RelativeToolTip": "OpenCV_Blur\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:02:45.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\OpenCV_Blur\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenCV_Blur\\Form1.cs",
+              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Blur\\OpenCV_Blur\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "OpenCV_Blur\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:01:59.383Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

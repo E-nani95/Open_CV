@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Binary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24D8EC-FEFF-4D9A-BCC7-B9BA27CF6BD5}|OpenCV_Binary\\OpenCV_Binary.csproj|c:\\users\\ai-04\\source\\repos\\opencv_binary\\opencv_binary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA24D8EC-FEFF-4D9A-BCC7-B9BA27CF6BD5}|OpenCV_Binary\\OpenCV_Binary.csproj|solutionrelative:opencv_binary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24D8EC-FEFF-4D9A-BCC7-B9BA27CF6BD5}|OpenCV_Binary\\OpenCV_Binary.csproj|c:\\users\\ai-04\\source\\repos\\opencv_binary\\opencv_binary\\opencv_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24D8EC-FEFF-4D9A-BCC7-B9BA27CF6BD5}|OpenCV_Binary\\OpenCV_Binary.csproj|solutionrelative:opencv_binary\\opencv_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24D8EC-FEFF-4D9A-BCC7-B9BA27CF6BD5}|OpenCV_Binary\\OpenCV_Binary.csproj|c:\\users\\ai-04\\source\\repos\\opencv_binary\\opencv_binary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24D8EC-FEFF-4D9A-BCC7-B9BA27CF6BD5}|OpenCV_Binary\\OpenCV_Binary.csproj|solutionrelative:opencv_binary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Binary\\OpenCV_Binary\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenCV_Binary\\Form1.cs",
+              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Binary\\OpenCV_Binary\\Form1.cs",
+              "RelativeToolTip": "OpenCV_Binary\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA+wCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:23:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenCV_Class.cs",
+              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Binary\\OpenCV_Binary\\OpenCV_Class.cs",
+              "RelativeDocumentMoniker": "OpenCV_Binary\\OpenCV_Class.cs",
+              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Binary\\OpenCV_Binary\\OpenCV_Class.cs",
+              "RelativeToolTip": "OpenCV_Binary\\OpenCV_Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:08:21.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Binary\\OpenCV_Binary\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenCV_Binary\\Form1.cs",
+              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Binary\\OpenCV_Binary\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "OpenCV_Binary\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:08:05.157Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
