@@ -22,10 +22,11 @@ namespace OpenCV_Affine_3P__Perspective_4P_
         IplImage src;
         private void Form1_Load(object sender, EventArgs e)
         {
-            src=new IplImage("../../../");
+            src=new IplImage("../../../way.jpg");
             OpenCV_CLASS Convert = new OpenCV_CLASS();
-            pictureBoxIpl1.imageIpl = src;
-            pictureBoxIpl2.imageIpl = Convert.AffineImage(src);
+            pictureBoxIpl1.ImageIpl = src;
+            pictureBoxIpl2.ImageIpl = Convert.AffineImage(src);
+            pictureBoxIpl3.ImageIpl = Convert.Perspective(src);
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)

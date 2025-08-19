@@ -16,3 +16,22 @@ C:\Users\famil\OneDrive\바탕 화면\OpenCV_Local\Open_CV\OpenCV\OpenCV_Affine(
 C:\Users\famil\OneDrive\바탕 화면\OpenCV_Local\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine(3P)&Perspective(4P).exe
 C:\Users\famil\OneDrive\바탕 화면\OpenCV_Local\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine(3P)&Perspective(4P).pdb
 C:\Users\famil\OneDrive\바탕 화면\OpenCV_Local\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine(3P)&Perspective(4P).exe.config
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCV_Affine(3P)&Perspective(4P).exe.config
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCV_Affine(3P)&Perspective(4P).exe
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCV_Affine(3P)&Perspective(4P).pdb
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCvSharp.xml
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCvSharp.dll.config
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine(3P)&Perspective(4P).csproj.AssemblyReference.cache
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine_3P__Perspective_4P_.Form1.resources
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine_3P__Perspective_4P_.Properties.Resources.resources
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine(3P)&Perspective(4P).csproj.GenerateResource.cache
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine(3P)&Perspective(4P).csproj.CoreCompileInputs.cache
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_A.335C9B7E.Up2Date
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine(3P)&Perspective(4P).exe
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine(3P)&Perspective(4P).pdb
+C:\Users\AI-00\Desktop\C#_OpenCV\Open_CV\OpenCV\OpenCV_Affine(3P)&Perspective(4P)\OpenCV_Affine(3P)&Perspective(4P)\obj\Debug\OpenCV_Affine(3P)&Perspective(4P).exe.config

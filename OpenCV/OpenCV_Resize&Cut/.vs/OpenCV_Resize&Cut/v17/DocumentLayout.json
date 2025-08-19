@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Resize\u0026Cut\\",
+  "WorkspaceRootPath": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Resize\u0026Cut\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|c:\\users\\ai-04\\source\\repos\\opencv_resize\u0026cut\\opencv_resize\u0026cut\\opencv_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Resize\u0026Cut\\opencv_resize\u0026cut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|solutionrelative:opencv_resize\u0026cut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|c:\\users\\ai-00\\desktop\\c#_opencv\\open_cv\\opencv\\opencv_resize\u0026cut\\opencv_resize\u0026cut\\opencv_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|solutionrelative:opencv_resize\u0026cut\\opencv_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|c:\\users\\ai-04\\source\\repos\\opencv_resize\u0026cut\\opencv_resize\u0026cut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Resize\u0026Cut\\opencv_resize\u0026cut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|solutionrelative:opencv_resize\u0026cut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|c:\\users\\ai-04\\source\\repos\\opencv_resize\u0026cut\\opencv_resize\u0026cut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{19CCA38A-56B3-4B2F-8514-6D27AD9D7E1F}|OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut.csproj|solutionrelative:opencv_resize\u0026cut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\Form1.cs",
               "RelativeDocumentMoniker": "OpenCV_Resize\u0026Cut\\Form1.cs",
-              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\Form1.cs",
+              "ToolTip": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\Form1.cs",
               "RelativeToolTip": "OpenCV_Resize\u0026Cut\\Form1.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAArwB0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,24 +43,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OpenCV_CLASS.cs",
-              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\OpenCV_CLASS.cs",
+              "DocumentMoniker": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\OpenCV_CLASS.cs",
               "RelativeDocumentMoniker": "OpenCV_Resize\u0026Cut\\OpenCV_CLASS.cs",
-              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\OpenCV_CLASS.cs",
+              "ToolTip": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\OpenCV_CLASS.cs",
               "RelativeToolTip": "OpenCV_Resize\u0026Cut\\OpenCV_CLASS.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T22:02:15.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\Form1.cs",
               "RelativeDocumentMoniker": "OpenCV_Resize\u0026Cut\\Form1.cs",
-              "ToolTip": "C:\\Users\\AI-04\\source\\repos\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\Form1.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Resize\u0026Cut\\OpenCV_Resize\u0026Cut\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "OpenCV_Resize\u0026Cut\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T22:01:49.967Z",

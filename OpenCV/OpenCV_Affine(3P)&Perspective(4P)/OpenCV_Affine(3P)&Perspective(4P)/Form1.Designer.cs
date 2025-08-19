@@ -28,22 +28,68 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.pictureBoxIpl1 = new OpenCvSharp.UserInterface.PictureBoxIpl();
+            this.pictureBoxIpl2 = new OpenCvSharp.UserInterface.PictureBoxIpl();
+            this.pictureBoxIpl3 = new OpenCvSharp.UserInterface.PictureBoxIpl();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxIpl1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxIpl2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxIpl3)).BeginInit();
             this.SuspendLayout();
+            // 
+            // pictureBoxIpl1
+            // 
+            this.pictureBoxIpl1.Location = new System.Drawing.Point(40, 72);
+            this.pictureBoxIpl1.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBoxIpl1.Name = "pictureBoxIpl1";
+            this.pictureBoxIpl1.Size = new System.Drawing.Size(263, 258);
+            this.pictureBoxIpl1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxIpl1.TabIndex = 1;
+            this.pictureBoxIpl1.TabStop = false;
+            // 
+            // pictureBoxIpl2
+            // 
+            this.pictureBoxIpl2.Location = new System.Drawing.Point(341, 72);
+            this.pictureBoxIpl2.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBoxIpl2.Name = "pictureBoxIpl2";
+            this.pictureBoxIpl2.Size = new System.Drawing.Size(263, 258);
+            this.pictureBoxIpl2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxIpl2.TabIndex = 2;
+            this.pictureBoxIpl2.TabStop = false;
+            // 
+            // pictureBoxIpl3
+            // 
+            this.pictureBoxIpl3.Location = new System.Drawing.Point(678, 72);
+            this.pictureBoxIpl3.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBoxIpl3.Name = "pictureBoxIpl3";
+            this.pictureBoxIpl3.Size = new System.Drawing.Size(263, 258);
+            this.pictureBoxIpl3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxIpl3.TabIndex = 3;
+            this.pictureBoxIpl3.TabStop = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1009, 458);
+            this.Controls.Add(this.pictureBoxIpl3);
+            this.Controls.Add(this.pictureBoxIpl2);
+            this.Controls.Add(this.pictureBoxIpl1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxIpl1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxIpl2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxIpl3)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private OpenCvSharp.UserInterface.PictureBoxIpl pictureBoxIpl1;
+        private OpenCvSharp.UserInterface.PictureBoxIpl pictureBoxIpl2;
+        private OpenCvSharp.UserInterface.PictureBoxIpl pictureBoxIpl3;
     }
 }
 
