@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Morphology_Calculation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F9DC0-CDED-42CA-B7BD-68E2AF0F4A67}|OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation.csproj|c:\\users\\ai-00\\desktop\\c#_opencv\\open_cv\\opencv\\opencv_morphology_calculation\\opencv_morphology_calculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F9DC0-CDED-42CA-B7BD-68E2AF0F4A67}|OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation.csproj|solutionrelative:opencv_morphology_calculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F9DC0-CDED-42CA-B7BD-68E2AF0F4A67}|OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation.csproj|c:\\users\\ai-00\\desktop\\c#_opencv\\open_cv\\opencv\\opencv_morphology_calculation\\opencv_morphology_calculation\\opencv_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F9DC0-CDED-42CA-B7BD-68E2AF0F4A67}|OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation.csproj|solutionrelative:opencv_morphology_calculation\\opencv_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F9DC0-CDED-42CA-B7BD-68E2AF0F4A67}|OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation.csproj|c:\\users\\ai-00\\desktop\\c#_opencv\\open_cv\\opencv\\opencv_morphology_calculation\\opencv_morphology_calculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A5F9DC0-CDED-42CA-B7BD-68E2AF0F4A67}|OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation.csproj|solutionrelative:opencv_morphology_calculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenCV_Morphology_Calculation\\Form1.cs",
+              "ToolTip": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation\\Form1.cs",
+              "RelativeToolTip": "OpenCV_Morphology_Calculation\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:11:50.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenCV_CLASS.cs",
+              "DocumentMoniker": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation\\OpenCV_CLASS.cs",
+              "RelativeDocumentMoniker": "OpenCV_Morphology_Calculation\\OpenCV_CLASS.cs",
+              "ToolTip": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation\\OpenCV_CLASS.cs",
+              "RelativeToolTip": "OpenCV_Morphology_Calculation\\OpenCV_CLASS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:52:56.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenCV_Morphology_Calculation\\Form1.cs",
+              "ToolTip": "C:\\Users\\AI-00\\Desktop\\C#_OpenCV\\Open_CV\\OpenCV\\OpenCV_Morphology_Calculation\\OpenCV_Morphology_Calculation\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "OpenCV_Morphology_Calculation\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:51:18.623Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
