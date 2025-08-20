@@ -25,12 +25,16 @@ namespace OpenCV_HSV
             OpenCV_CLASS Convert = new OpenCV_CLASS();
 
             pictureBoxIpl1.ImageIpl = src;
+            // 명도 채도 x
             pictureBoxIpl2.ImageIpl = Convert.HSV(src);
+            // 명도 채도 0
+            pictureBoxIpl3.ImageIpl = Convert.HSV_hap(src);
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (src != null) Cv.ReleaseImage(src);
         }
+
     }
 }
